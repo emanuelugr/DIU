@@ -56,7 +56,7 @@ Miembros
 
 ![Journey Map uno](img/p1-6#1.png)
 
-![Journey Mao dos](img/p1-6#2.png)
+![Journey Map dos](img/p1-6#2.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
