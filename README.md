@@ -15,14 +15,9 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Emanuel Giraldo Herrera     :octocat: 
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
@@ -35,21 +30,34 @@ Miembros
 
 >>> Describe el plan de User Research (cómo se planteas)  
 
+
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+
+![Competitor analysis](img/p1-3.png)
+
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
+![Persona uno](img/p1-5#1.png)
+
+![Persona dos](img/p1-5#2.png)
+
+
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+
+![Journey Map uno](img/p1-6#1.png)
+
+![Journey Mao dos](img/p1-6#2.png)
+
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
