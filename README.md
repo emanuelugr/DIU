@@ -44,9 +44,9 @@ Miembros
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
-![Persona uno](img/p1-5#1.png)
+![Persona uno](img/p1-5a.png)
 
-![Persona dos](img/p1-5#2.png)
+![Persona dos](img/p1-5b.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
@@ -54,9 +54,9 @@ Miembros
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
 
-![Journey Map uno](img/p1-6#1.png)
+![Journey Map uno](img/p1-6a.png)
 
-![Journey Map dos](img/p1-6#2.png)
+![Journey Map dos](img/p1-6b.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
