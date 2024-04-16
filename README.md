@@ -28,13 +28,19 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+El plan de User Research se centra en comprender las necesidades y preferencias de los usuarios al buscar y organizar iniciativas turísticas en Granada, específicamente en el ámbito del Espacio Escénico Teatral, con el objetivo de mejorar la experiencia de usuario en la plataforma web correspondiente ([Espacio La Estupenda](https://espaciolaestupenda.com/)). Para lograr esto, se emplearán métodos de investigación como análisis de competidores, creación de personas, journey maps o usabilities reviews.
+
+En el análisis de competidores se utilizarán dos proyectos similares que puedan o hagan competencia a la opción elegida. Mientras que para las personas se representarán diversos perfiles de usuario, incluyendo la mayor variedad posible, se explorarán en detalle sus necesidades, comportamientos y preferencias al buscar eventos turísticos. 
+
+Los resultados de la investigación se utilizarán para informar el diseño y desarrollo de la plataforma web, con el objetivo de aumentar la satisfacción del cliente y mejorar la experiencia de usuario en la búsqueda y organización de iniciativas turísticas en Granada.
 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+Hemos seleccionado como la página a analizar ([text](https://espaciolaestupenda.com/)) y como competidoras a proyectos con enfoques distintos pero que inciden en el mismo grupo de usuarios objetivo de nuestro proyecto. Entre estos proyectos competidores hemos elegido a [La Buia Espacio Creativo](https://labuiaespaciocreativo.es/), espacio creativo de teatro, circo y danza de Granada, más dedicado a la realización de cursos y obras de teatro; y a [La Llama](https://lallamastore.com/), tienda de comedia en Barcelona donde se organizan numerosos eventos de teatrales o interpretativos de todo tipo.
+
+Las características que hemos seleccionado para la comparativa son los cursos de los que se dispone, el merchandising disponible y los eventos que se organizan; la multimedia de la web, la adaptabilidad de los recursos y la interactividad; la personalización, la búsqueda de información y los comentarios o retroalimentación de los clientes; la estructura, la legibilidad y la navegación; y los puntos fuertes, los puntos débiles y las conclusiones.
 
 ![Competitor analysis](img/p1-3.png)
 
@@ -42,7 +48,7 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+Hemos seleccionado a Julián y a María con la intención de representar el espectro más amplio posible de usuarios objetivo, garantizando perfiles distintos en edad, sexo, intereses, situación socioecnomica y personalidad. Julián es un usuario que nos sirve para parametrizar la web con personas jóvenes, estudiantes, intereses realcionados parcialmente con el teatro y con una actitud proactiva respecto a este. Mientras tanto, María es una usuaria que integra verdaderamente bien caracterisitcas en otros grupos poblacionales como personas de mediana edad, trabajadoras, interés específico en el teatro y la interpretación y con una actitud titubeante ante estos. 
 
 ![Persona uno](img/p1-5a.png)
 
@@ -52,7 +58,7 @@ Miembros
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+Las expericias de usuario escogidas han sido elegidas dada la asiduidad con la que suceden y a lo bien que representan la personalidad y el contexto personal de cada una de las personas. Si bien, no creemos que correspondan exactamente a la misma experiencia de muchos usuario, las dos actúan de forma similar a las personas englobando numerosos pequeños casos posibles dentro de cada experiencia, lo que nos permite abarcar un amplio terreno en la representación de estas y su interacción con la página de ([La Estupenda](https://espaciolaestupenda.com/)).
 
 ![Journey Map uno](img/p1-6a.png)
 
@@ -61,11 +67,11 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+El [Usability Review](https://github.com/emanuelugr/DIU/blob/master/P1/P1-7%20Usability%20Review.pdf) que hemos realizado nos arroja una puntación total de 70 (Good).
+
+Esta puntuación indica con exactitud nuestro análisis de la página web seleccionada, ya que, aunque podemos catalogarla como una página web correcta, que cumple sus funciones básicas, tiene errores vertebrales en cosas como su estructura, su personalización o su retroalimentación, entre otros compenentes, lo que lleva a pensar que es mejorable en muchos aspectos.
+
 
 
 ## Paso 2. UX Design  
