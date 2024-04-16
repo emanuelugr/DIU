@@ -41,7 +41,7 @@ Los resultados de la investigación se utilizarán para informar el diseño y de
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
-Hemos seleccionado como la página a analizar ([text](https://espaciolaestupenda.com/)) y como competidoras a proyectos con enfoques distintos pero que inciden en el mismo grupo de usuarios objetivo de nuestro proyecto. Entre estos proyectos competidores hemos elegido a [La Buia Espacio Creativo](https://labuiaespaciocreativo.es/), espacio creativo de teatro, circo y danza de Granada, más dedicado a la realización de cursos y obras de teatro; y a [La Llama](https://lallamastore.com/), tienda de comedia en Barcelona donde se organizan numerosos eventos de teatrales o interpretativos de todo tipo.
+Hemos seleccionado como la página a analizar ([La Estupenda](https://espaciolaestupenda.com/)) y como competidoras a proyectos con enfoques distintos pero que inciden en el mismo grupo de usuarios objetivo de nuestro proyecto. Entre estos proyectos competidores hemos elegido a [La Buia Espacio Creativo](https://labuiaespaciocreativo.es/), espacio creativo de teatro, circo y danza de Granada, más dedicado a la realización de cursos y obras de teatro; y a [La Llama](https://lallamastore.com/), tienda de comedia en Barcelona donde se organizan numerosos eventos de teatrales o interpretativos de todo tipo.
 
 Las características que hemos seleccionado para la comparativa son los cursos de los que se dispone, el merchandising disponible y los eventos que se organizan; la multimedia de la web, la adaptabilidad de los recursos y la interactividad; la personalización, la búsqueda de información y los comentarios o retroalimentación de los clientes; la estructura, la legibilidad y la navegación; y los puntos fuertes, los puntos débiles y las conclusiones.
 
@@ -61,7 +61,7 @@ Hemos seleccionado a Julián y a María con la intención de representar el espe
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-Las expericias de usuario escogidas han sido elegidas dada la asiduidad con la que suceden y a lo bien que representan la personalidad y el contexto personal de cada una de las personas. Si bien, no creemos que correspondan exactamente a la misma experiencia de muchos usuario, las dos actúan de forma similar a las personas englobando numerosos pequeños casos posibles dentro de cada experiencia, lo que nos permite abarcar un amplio terreno en la representación de estas y su interacción con la página de ([La Estupenda](https://espaciolaestupenda.com/)).
+Las expericias de usuario escogidas han sido elegidas dada la asiduidad con la que suceden y a lo bien que representan la personalidad y el contexto personal de cada una de las personas. Si bien, no creemos que correspondan exactamente a la misma experiencia de muchos usuario, las dos actúan de forma similar a las personas englobando numerosos pequeños casos posibles dentro de cada experiencia, lo que nos permite abarcar un amplio terreno en la representación de estas y su interacción con la página de [La Estupenda](https://espaciolaestupenda.com/).
 
 ![Journey Map uno](img/p1-6a.png)
 
