@@ -5,11 +5,14 @@ Grupo: DIU1_Tech-X.  Curso: 2023/24
 Updated: 20/03/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+
+Club de Lectura en La Estupenda
+
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+La idea es añadir Clubes de Lectura a los cursos interpretativos que se encuentran en la web, ya que con esto conseguimos ampliar el ámbito literario de los cursos y, además, un Club de Lectura dura unas pocas semanas y es considerablemente más barato que cualquier curso de intepretación, lo que atrae a nuevos usuarios y permite la integración de estos al resto de eventos y formaciones de la página.
+
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
