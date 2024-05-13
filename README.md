@@ -83,47 +83,46 @@ Esta puntuación indica con exactitud nuestro análisis de la página web selecc
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
+![Empathy Map](img/p2-2.png)
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+La propuesta de valor para el nuevo diseño de la aplicación sería ofrecer una experiencia única de clubes de lectura que complementen la oferta existente de formación y espectáculos teatrales. Esta nueva función proporcionaría una oportunidad para que los usuarios exploren y discutan una amplia variedad de libros en un entorno interactivo y enriquecedor. Además, al ser una opción más corta y económica que los espectáculos teatrales, permitiría a un público más amplio acceder a actividades culturales de alta calidad. La combinación de formación, entretenimiento y ahora también lectura, consolidaría a La Estupenda como un destino integral para la cultura y el aprendizaje.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+
+![Propuesta de valor](img/p2-3.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+![Tasks Analysis](img/p2-4a.png)
+
+![Userflow 1](img/p2-4b.png)
+
+![Userflow 2](img/p2-4c.png)
+
+![Userflow 3](img/p2-4d.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+![Sitemap](img/p2-5a.png)
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Labelling](img/p2-5b.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Wireframe Home](img/p2-6a.png)
+
+![Wireframe Formación](img/p2-6b.png)
+
+![Wireframe Club de lectura](img/p2-6c.png)
+
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
