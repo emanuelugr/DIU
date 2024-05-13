@@ -99,9 +99,15 @@ La propuesta de valor para el nuevo diseño de la aplicación sería ofrecer una
 
 ![Tasks Analysis](img/p2-4a.png)
 
+Iniciar sesión:
+
 ![Userflow 1](img/p2-4b.png)
 
+Apuntarse a un club de lectura:
+
 ![Userflow 2](img/p2-4c.png)
+
+Añadir valoración y opinión personal sobre los cursos:
 
 ![Userflow 3](img/p2-4d.png)
 
