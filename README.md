@@ -137,10 +137,7 @@ Añadir valoración y opinión personal sobre los cursos:
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+En el Moodboard incluimos los principales elementos de diseño a considerar antes de comenzar con el bocetaje HI-FI de la aplicación, para ello hemos creado un logotipo, con la herramiento [Recraft.io](https://www.recraft.ai/). Hemos utilizado para este logo una alta resolución para no perder detalles en formatos pequeños y que tampoco se vea borroso en formatos grandes. Además, hemos creado diferentes versiones que se adapten a las necesidades de nuestra página.
 
 ![Moodboard](img/p3-1.png)
 
@@ -156,11 +153,31 @@ Con intención de promocionar la aplicación, se ha bocetado una página web Onb
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para hablar sobre los patrones utilizados, debemos hacer una categorización inicial según el tipo de componentes afectados:
+
+* Búsqueda:
+
+Patrón de caja de búsqueda: Empleado en las vistas principales de la aplicación para permitir al usuario filtrar y buscar correctamente los elementos que necesite.
+
+* Navegación:
+
+Navegación por pestañas: Utilizada tanto en el menú del ítem como en el menú principal accesible desde todas las vistas. Proporciona una forma intuitiva y cómoda de agrupar los componentes prinicipales de la aplicación.
+
+* Tareas:
+
+Formato estructurado: Enfocado en formularios de entrada de datos y en todas las listas de elementos de la aplicación.
+
+* Otros aspectos específicos:
+
+Calendario: Usado para la organización de fechas de eventos próximos tanto inscritos como no inscritos.
+Ajustes: Adaptado para la vista de ajustes del sistema.
+Valoración: Usado para el sistema de valoración de las formaciones disponibles.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+
+A continuación, se incluyen una serie de bocetos Hi-Fi de la aplicación.
 
 ![Onboarding](img/p3-4a.png)
 
