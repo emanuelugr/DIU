@@ -15,7 +15,7 @@ La idea es añadir Clubes de Lectura a los cursos interpretativos que se encuent
 
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logo de la aplicación](img/logo.png)
 
 Miembros
  * :bust_in_silhouette:   Emanuel Giraldo Herrera     :octocat: 
@@ -142,12 +142,16 @@ Añadir valoración y opinión personal sobre los cursos:
 >>> Incluir Logotipo
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
+![Moodboard](img/p3-1.png)
+
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Con intención de promocionar la aplicación, se ha bocetado una página web Onboarding para atraer la atención del usuario. Para ello, hemos usado una imagen que represente fielmente tanto el estilo y, por extensión, los valores que que queremos transmitir, como los detalles diferenciales de nuestra propuesta.
 
->>> Plantear Landing Page 
+![Landing Page](img/p3-2.jpg)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -158,15 +162,28 @@ Añadir valoración y opinión personal sobre los cursos:
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![Onboarding](img/p3-4a.png)
+
+![Inicio](img/p3-4b.png)
+
+![Menu](img/p3-4c.png)
+
+![Lista de actividades](img/p3-4d.png)
+
+![Produto detalle](img/p3-4e.png)
+
+![Registrarse](img/p3-4f.png)
+
+![Iniciar sesión](img/p3-4g.png)
+
+![Pantalla OK](img/p3-4h.png)
+
+![Contacto](img/p3-4i.png)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
