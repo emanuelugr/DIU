@@ -170,7 +170,9 @@ Formato estructurado: Enfocado en formularios de entrada de datos y en todas las
 * Otros aspectos específicos:
 
 Calendario: Usado para la organización de fechas de eventos próximos tanto inscritos como no inscritos.
+
 Ajustes: Adaptado para la vista de ajustes del sistema.
+
 Valoración: Usado para el sistema de valoración de las formaciones disponibles.
 
 
