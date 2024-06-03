@@ -211,9 +211,9 @@ A continuación, se incluyen una serie de bocetos Hi-Fi de la aplicación.
 
 En este apartado vamos a analizar el trabajo realizado por el grupo [DIU3_14_AveFenix](https://github.com/G3rarB0net/DIU), que han llevado a cabo la aplicación Mountain Sports.
 
-![Logo Mountain Sports](img/p4-1.png)
-
 Mountain Sport es una aplicación dedicada a las actividades de montaña, la cual pretende ofrecer a todos sus usuarios una plataforma donde poder inscribirse en multitud de experiencias deportivas por zonas rurales más y menos conocidas, donde todas destacan por su enorme belleza, sus vistas impresionantes y su gran altitud.
+
+![Logo Mountain Sports](img/p4-1.png)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -278,12 +278,12 @@ Persona 4 (Carlos Fernández)
 
 
 
-| Usuarios          | Sexo/Edad | Ocupación                 |  Exp.TIC    | Personalidad | Plataforma | TestA/B |
-| ----------------- | --------- | ------------------------- | ----------- | ------------ | ---------- | ------- |
-| Laura Martínez    | H / 32    | Profesora de literatura   | Alta        | Sociable     | Móvil      | A       |
-| Jorge Gutiérrez   | M / 57    | Abogado                   | Media       | Racional     | Web        | A       |
-| Ana Botín         | F / 21    | Estudiante                | Media       | Exigente     | Móvil      | B       |
-| Carlos Fernández  | H / 43    | Ingeniero informático     | Alta        | Inseguro     | Web        | B       |
+| Usuarios          | Sexo/Edad | Ocupación                 |  Exp.TIC  | Personalidad  | Plataforma | TestA/B  |
+| ----------------- | --------- | ------------------------- | --------- | ------------- | ---------- | -------- |
+| Laura Martínez    | H / 32    | Profesora de literatura   | Alta      | Sociable      | Móvil      | A        |
+| Jorge Gutiérrez   | M / 57    | Abogado                   | Media     | Racional      | Web        | A        |
+| Ana Botín         | F / 21    | Estudiante                | Media     | Exigente      | Móvil      | B        |
+| Carlos Fernández  | H / 43    | Ingeniero informático     | Alta      | Inseguro      | Web        | B        |
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
