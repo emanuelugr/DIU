@@ -307,13 +307,9 @@ Como conclusiones de los casos que hemos analizado, extrapolarlo más allá es d
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+El Usability Report se puede encontrar [aquí](P4/readme.md)
 
-
-
->>> Valoración personal 
-
-
+En cuanto a la valoración personal, nos parece que el prototipo presentado por nuestros compañeros está muy logrado, la paleta de colores es llamativa y consistente, la interfaz y sus iconos son modernos y atractivos y algunas de las funcionalidades que presenta nos han resultado realmente interesantes. Para incluir algún comentario de mejora, nos parece que falta inforamción en las actividades como mapas, rutas detalladas o categorías de dificultad, e información en la reserva y calendarios como datos sobre el tiempo o los ciclos de luz solar.
 
 
 

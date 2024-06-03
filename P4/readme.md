@@ -124,11 +124,11 @@ Este documento contiene la evaluación de usabilidad del prototipo B de la aplic
 
 ![AOI Actividades](Eye%20Tracking%20B/AOI%20Actividades.png)
 
-Ana:
+* Ana:
 
 ![Actividades Ana](Eye%20Tracking%20B/Actividades%20(Ana).png)
 
-Carlos:
+* Carlos:
 
 ![Actividades Carlos](Eye%20Tracking%20B/Actividades%20(Carlos).png)
 
@@ -137,11 +137,11 @@ Carlos:
 
 ![AOI Actividad](Eye%20Tracking%20B/AOI%20Actividad.png)
 
-Ana:
+* Ana:
 
 ![Actividad Ana](Eye%20Tracking%20B/Actividad%20(Ana).png)
 
-Carlos:
+* Carlos:
 
 ![Actividad Carlos](Eye%20Tracking%20B/Actividad%20(Carlos).png)
 
@@ -150,11 +150,11 @@ Carlos:
 
 ![AOI Perfil](Eye%20Tracking%20B/AOI%20Perfil.png)
 
-Ana:
+* Ana:
 
 ![Perfil Ana](Eye%20Tracking%20B/Perfil%20(Ana).png)
 
-Carlos:
+* Carlos:
 
 ![Perfil Carlos](Eye%20Tracking%20B/Perfil%20(Carlos).png)
 
@@ -163,11 +163,11 @@ Carlos:
 
 ![AOI Reserva](Eye%20Tracking%20B/AOI%20Reserva.png)
 
-Ana:
+* Ana:
 
 ![Reserva Ana](Eye%20Tracking%20B/Reserva%20(Ana).png)
 
-Carlos:
+* Carlos:
 
 ![Reserva Carlos](Eye%20Tracking%20B/Reserva%20(Carlos).png)
 
@@ -179,11 +179,11 @@ Carlos:
 
 ![AOI Inicio](Eye%20Tracking%20A/AOI%20Inicio.png)
 
-Laura:
+* Laura:
 
 ![Inicio Laura](Eye%20Tracking%20A/Inicio%20(Laura).png)
 
-Jorge:
+* Jorge:
 
 ![Inicio Jorge](Eye%20Tracking%20A/Inicio%20(Jorge).png)
 
@@ -192,11 +192,11 @@ Jorge:
 
 ![AOI Lista de actividades](Eye%20Tracking%20A/AOI%20Lista%20actividades.png)
 
-Laura:
+* Laura:
 
 ![Lista de actividades Laura](Eye%20Tracking%20A/Lista%20actividades%20(Laura).png)
 
-Jorge:
+* Jorge:
 
 ![Lista de actividades Jorge](Eye%20Tracking%20A/Lista%20actividades%20(Jorge).png)
 
@@ -205,11 +205,11 @@ Jorge:
 
 ![AOI Producto detalle](Eye%20Tracking%20A/AOI%20Producto%20Detalle.png)
 
-Laura:
+* Laura:
 
 ![Producto detalle Laura](Eye%20Tracking%20A/Producto%20detalle%20(Laura).png)
 
-Jorge:
+* Jorge:
 
 ![Producto detalle Jorge](Eye%20Tracking%20A/Producto%20detalle%20(Jorge).png)
 
@@ -218,11 +218,11 @@ Jorge:
 
 ![AOI Registrarse](Eye%20Tracking%20A/AOI%20Registrarse.png)
 
-Laura:
+* Laura:
 
 ![Registrarse Laura](Eye%20Tracking%20A/Registrarse%20(Laura).png)
 
-Jorge:
+* Jorge:
 
 ![Registrarse Jorge](Eye%20Tracking%20A/Registrarse%20(Jorge).png)
 
