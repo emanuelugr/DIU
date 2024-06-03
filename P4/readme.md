@@ -2,7 +2,7 @@
 
 
 
-![Logo Mountain Sports](img/p4-1.png)
+![Logo Mountain Sports](../img/p4-1.png)
 
 
 #### Evaluación de usabilidad del proyecto 
@@ -29,7 +29,7 @@ Mountain Sports es una aplicación de actividades de montaña diseñada para fac
 
 ## 2 RESUMEN EJECUTIVO
 
-Este documento contiene la evaluación de usabilidad del prototipo B de la aplicación de actividades de montaña Mountain Sports. Se describen la metodología aplicada, los participantes del test de usuarios, y los resultados obtenidos, incluyendo un análisis de problemas detectados y propuestas de mejora.
+Este documento contiene la evaluación de usabilidad del prototipo B de la aplicación de actividades de montaña Mountain Sports. Se describen la metodología aplicada, los participantes del test de usuarios y los resultados obtenidos, incluyendo un análisis de problemas detectados y propuestas de mejora.
 
 
 ## 3 METODOLOGIA 
@@ -38,7 +38,7 @@ Este documento contiene la evaluación de usabilidad del prototipo B de la aplic
 
 * Técnicas aplicadas: A/B test, cuestionario SUS y eyetracking.
 
-* Sesiones: Se realizaron sesiones individuales con cuatro participantes, donde se les pidió que completarán los cuestionarios y donde se analizo su eyetracking.
+* Sesiones: Se realizaron sesiones individuales con cuatro participantes, donde se les pidió que completarán los cuestionarios y donde se analizó su eyetracking.
 
 
 #### Test de usuarios: Participantes
@@ -52,9 +52,9 @@ Este documento contiene la evaluación de usabilidad del prototipo B de la aplic
 | Carlos Fernández  | H / 43    | Ingeniero informático     | Alta      | Principiante, motivado, perdido   | Web        | B        | 67,5  |
 
 
-#### Resultados obtenidos
+#### Resultados obtenidos SUS
 
-| **CUESTIONARIO SUS LAURA**                                                                  | **Valoracion** |
+| **CUESTIONARIO LAURA**                                                                      | **Valoracion** |
 | ------------------------------------------------------------------------------------------- | -------------- |
 | 1. Creo que me gustará visitar con frecuencia este website                                  | 3              |
 | 2. Encontré el website innecesariamente complejo                                            | 1              |
@@ -69,7 +69,7 @@ Este documento contiene la evaluación de usabilidad del prototipo B de la aplic
 | **VALORACION FINAL**                                                                        | 85             |
 
 
-| **CUESTIONARIO SUS JORGE**                                                                  | **Valoracion** |
+| **CUESTIONARIO JORGE**                                                                      | **Valoracion** |
 | ------------------------------------------------------------------------------------------- | -------------- |
 | 1. Creo que me gustará visitar con frecuencia este website                                  | 2              |
 | 2. Encontré el website innecesariamente complejo                                            | 2              |
@@ -84,7 +84,7 @@ Este documento contiene la evaluación de usabilidad del prototipo B de la aplic
 | **VALORACION FINAL**                                                                        | 62,5           |
 
 
-| **CUESTIONARIO SUS ANA**                                                                    | **Valoracion** |
+| **CUESTIONARIO ANA**                                                                        | **Valoracion** |
 | ------------------------------------------------------------------------------------------- | -------------- |
 | 1. Creo que me gustará visitar con frecuencia este website                                  | 5              |
 | 2. Encontré el website innecesariamente complejo                                            | 2              |
@@ -100,7 +100,7 @@ Este documento contiene la evaluación de usabilidad del prototipo B de la aplic
 
 
 
-| **CUESTIONARIO SUS CARLOS**                                                                  | **Valoracion** |
+| **CUESTIONARIO CARLOS**                                                                     | **Valoracion** |
 | ------------------------------------------------------------------------------------------- | --------------- |
 | 1. Creo que me gustará visitar con frecuencia este website                                  | 2               |
 | 2. Encontré el website innecesariamente complejo                                            | 1               |
@@ -116,47 +116,129 @@ Este documento contiene la evaluación de usabilidad del prototipo B de la aplic
 
 
 
+#### Resultados obtenidos Eyetracking
 
-(resultado de eyetracking)
+#### Mountain Sports
+
+Actividades
+
+![Actividades Ana](Eye%20Tracking%20B/Actividades%20(Ana).png)
+
+![Actividades Carlos](Eye%20Tracking%20B/Actividades%20(Carlos).png)
+
+![AOI Actividades](Eye%20Tracking%20B/AOI%20Actividades.png)
 
 
+Actividad
+
+![Actividad Ana](Eye%20Tracking%20B/Actividad%20(Ana).png)
+
+![Actividad Carlos](Eye%20Tracking%20B/Actividad%20(Carlos).png)
+
+![AOI Actividad](Eye%20Tracking%20B/AOI%20Actividad.png)
 
 
+Perfil
+
+![Perfil Ana](Eye%20Tracking%20B/Perfil%20(Ana).png)
+
+![Perfil Carlos](Eye%20Tracking%20B/Perfil%20(Carlos).png)
+
+![AOI Perfil](Eye%20Tracking%20B/AOI%20Perfil.png)
 
 
+Reserva
 
+![Reserva Ana](Eye%20Tracking%20B/Reserva%20(Ana).png)
+
+![Reserva Carlos](Eye%20Tracking%20B/Reserva%20(Carlos).png)
+
+![AOI Reserva](Eye%20Tracking%20B/AOI%20Reserva.png)
+
+
+#### Clubs de lectura La Estupenda
+
+
+Inicio
+
+![Inicio Laura](Eye%20Tracking%20A/Inicio%20(Laura).png)
+
+![Inicio Jorge](Eye%20Tracking%20A/Inicio%20(Jorge).png)
+
+![AOI Inicio](Eye%20Tracking%20A/AOI%20Inicio.png)
+
+
+Lista de actividades
+
+![Lista de actividades Laura](Eye%20Tracking%20A/Lista%20actividades%20(Laura).png)
+
+![Lista de actividades Jorge](Eye%20Tracking%20A/Lista%20actividades%20(Jorge).png)
+
+![AOI Lista de actividades](Eye%20Tracking%20A/AOI%20Lista%20actividades.png)
+
+
+Producto detalle
+
+![Producto detalle Laura](Eye%20Tracking%20A/Producto%20detalle%20(Laura).png)
+
+![Producto detalle Jorge](Eye%20Tracking%20A/Producto%20detalle%20(Jorge).png)
+
+![AOI Producto detalle](Eye%20Tracking%20A/AOI%20Producto%20Detalle.png)
+
+
+Registrarse
+
+![Registrarse Laura](Eye%20Tracking%20A/Registrarse%20(Laura).png)
+
+![Registrarse Jorge](Eye%20Tracking%20A/Registrarse%20(Jorge).png)
+
+![AOI Registrarse](Eye%20Tracking%20A/AOI%20Registrarse.png)
 
 
 ## 4 CONCLUSIONES 
 
 
+#### Según la prueba de usabilidad
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+La aplicación tiene un concepto sólido y funciones muy útiles, resalta como todos los usuarios se han visto cómodos al usarla y como la interfaz cumple con su papel casi a la perfección en cuanto a su atractivo y facilidad de uso. Si embargo, presenta algunos problemas de diseño en cuanto a la categorización de sus actividades así como la falta de integración de funciones esenciales. Los usuarios con experiencia avanzada en el tema se mostraron algo inadisfechos por la falta de detalle en las rutas y días selecciobables, mientras que los principiantes se vieron mucho más perdido por la falta de apoyo o de guías visuales.
+
+
+#### Según el Eyetracking
 
 
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
+Durante el resto de las pruebas de usabilidad no hemos encontrado ninguna incidencia, sin embargo, utilizar la aplicación recomendada para el EyeTracking (GazeRecorder) ha sido como poco algo estresante debido a múltiples problemas por su baja calidad de calibración o errores durante el proceso de EyeTracking.
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
+* Interfaz atractiva y moderna.
+
+* Método sencillo e intuitivo para inscribirse y reservar cualquier actividad
+
+* Foros muy llamativos para compartir experiencias e interacciones entre los usuarios.
+
+* Chat individual para favorecer la comunicación entre personas más cercanas.
 
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
+* Mejorar la accesibilidad para personas con necesidades especiales.
 
+* Incluir mapas con información detallada sobre las rutas.
 
+* Incluir información detallada sobre el tiempo en las fechas seleccionables.
 
+* Añadir información gráfica e intuitiva sobre la dificultad de cada una de las actividades.
 
+* Mejorar la barra de búsqueda y filtro de las actividades.
 
+* Incluir información en los foros, como consejos o advertencias, para personas principiantes.
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+Las técnicas aplicadas han sido útiles para detectar algunos errores en los que no habíamos pensado y fallos de usabilidad que no eran evidentes en un primer vistazo. Realizar estas pruebas por tanto han proporcionado información valiosa para mejorar la experiencia del usuario tanto en la aplicación analizada, como en la nuestra dado la fácil extrapolación de los errores típicos y sus soluciones. Las pruebas de usabilidad sobretodo creemos que han sido especialmente relevantes haciendo hincapié en áreas críticas que necesitan atención, lo que ayudará a orientar las mejoras futuras de manera efectiva.
