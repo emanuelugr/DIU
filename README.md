@@ -205,59 +205,86 @@ A continuación, se incluyen una serie de bocetos Hi-Fi de la aplicación.
 
 
 
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
-
 ## Paso 4. Evaluación 
 
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+En este apartado vamos a analizar el trabajo realizado por el grupo ![DIU3_14_AveFenix](https://github.com/G3rarB0net/DIU), que han llevado a cabo la aplicación Mountain Sports.
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Mountain Sport es una aplicación dedicada a las actividades de montaña, la cual pretende ofrecer a todos sus usuarios una plataforma donde poder inscribirse en multitud de experiencias deportivas por zonas rurales más y menos conocidas, donde todas destacan por su enorme belleza, sus vistas impresionantes y su gran altitud.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Mediante el uso de tiradas de dados hemos creado las personas necesarias para esta sección intentando cubrir el máximo tipo de usuario objetivo que podemos abarcar.
+Para el prototipo A (Clubes de lectura):
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+* Persona 1 (Laura Martínez)
+
+Tipo: Usuario activo
+
+Actividad: Participación constante en clubes de lectura y foros
+
+Emoción: Motivada por el aprendizaje y el intercambio de ideas
+
+Necesidades: interfaz intuitiva y atractiva, foros activos y moderados para discusiones literarias y notificaciones que avisen de nuevos eventos y discusiones.
+
+Situaciones conflicitvas: si la interfaz no es muy intuitiva podría desanimarse después de un primer impulso por participar en cualquiera de estas actividades, de la misma forma, estando tan interesada, tendría un grave problema con no recibir notificaciones actualizadas sobre los eventos que le interesan.
+
+
+* Persona 2 (Jorge Gutiérrez)
+
+Tipo: Usuario ocasional
+
+Actividad: Búsqueda de eventos literarios específicos
+
+Emoción: Interesado, pero con poco tiempo
+
+Necesidades: fácil acceso a un calendario de eventos, sistema sencillo y cómodo de registrarse e iniciar sesión y la posibilidad de inscribirse rápidamente a cualquier evento.
+
+Situaciones conflicitvas: en este caso, el gran problema es el tiempo, por tanto, si la aplicación no es eficiente y clara y no ofrece una forma rápida y simple de registrase e inciar sesión, así como de inscribirse a un evento, perdería todo el interés.
+
+
+
+Para el prototipo B (Actividades de montaña):
+
+* Persona 3 (Ana Botín)
+
+Tipo: Usuario experto
+
+Actividad: Planificación de rutas y actividades avanzadas
+
+Emoción: Apasionada y exigente
+
+Necesidades: mapas detallados y actualizados, información precisa sobre rutas y condiciones del tiempo y opciones para compartir rutas y experiencias en redes sociales.
+
+
+Situaciones conflictivas: si los mapas no están bien detallados y desactualizados podría frustrarse y no querer repetir la experiencia. También es muuy importante para ella poder compartir su experiencia con sus amigos en redes y recibir retroalimentación.
+
+
+* Persona 4 (Carlos Fernández)
+
+Tipo: Usuario principiante
+
+Actividad: Búsqueda de actividades de iniciación
+
+Emoción: Motivado pero inexperto
+
+Necesidades: guías y tutoriales para principiantes, recomendaciones de rutas por dificultad, foro de comunidad para preguntas y consejos.
+
+Situaciones conflictivas: si no encuentra guías y tutoriales claros para principiantes, así como que las rutas y actividades no hagan referencia a la dificultad o vea únicamente en los comentarios gente que parezca ser experta, podría sentirse completamente abrumado y nada motivado.
+
+
+
+| Usuarios          | Sexo/Edad | Ocupación                 |  Exp.TIC    | Personalidad | Plataforma | TestA/B |
+| ----------------- | --------- | ------------------------- | ----------- | -----------  | ---------- | ------- |
+| Laura Martínez    | H / 32    | Profesora de literatura   | Alta        | Sociable     | Móvil      | A       |
+| Jorge Gutiérrez   | M / 57    | Abogado                   | Media       | Racional     | Web        | A       |
+| Ana Botín         | F / 21    | Estudiante                | Media       | Exigente     | Móvil      | B       |
+| Carlos Fernández  | H / 43    | Ingeniero informático     | Alta        | Inseguro     | Web        | B       |
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
@@ -293,6 +320,34 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 
+## Paso 5. Exportación & evaluación con Eye Tracking 
+
+Exportación a HTML/Flutter
+-----
+
+![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
+
+>>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+
+Diseño del experimento 
+----
+
+>> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
+>> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+
+
+![experimento](img/experimentoET.png)  
+>> cambiar img por tu diseño de experimento  
+
+>> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+
+Resultados y valoración 
+-----
+
+
+
+>> Cambiar por tus resultados
+![Resultado](img/resultadoET.png)  
 
 
 
