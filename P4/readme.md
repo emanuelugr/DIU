@@ -120,79 +120,111 @@ Este documento contiene la evaluación de usabilidad del prototipo B de la aplic
 
 #### Mountain Sports
 
-Actividades
-
-![Actividades Ana](Eye%20Tracking%20B/Actividades%20(Ana).png)
-
-![Actividades Carlos](Eye%20Tracking%20B/Actividades%20(Carlos).png)
+#### Actividades
 
 ![AOI Actividades](Eye%20Tracking%20B/AOI%20Actividades.png)
 
+Ana:
 
-Actividad
+![Actividades Ana](Eye%20Tracking%20B/Actividades%20(Ana).png)
 
-![Actividad Ana](Eye%20Tracking%20B/Actividad%20(Ana).png)
+Carlos:
 
-![Actividad Carlos](Eye%20Tracking%20B/Actividad%20(Carlos).png)
+![Actividades Carlos](Eye%20Tracking%20B/Actividades%20(Carlos).png)
+
+
+#### Actividad
 
 ![AOI Actividad](Eye%20Tracking%20B/AOI%20Actividad.png)
 
+Ana:
 
-Perfil
+![Actividad Ana](Eye%20Tracking%20B/Actividad%20(Ana).png)
 
-![Perfil Ana](Eye%20Tracking%20B/Perfil%20(Ana).png)
+Carlos:
 
-![Perfil Carlos](Eye%20Tracking%20B/Perfil%20(Carlos).png)
+![Actividad Carlos](Eye%20Tracking%20B/Actividad%20(Carlos).png)
+
+
+#### Perfil
 
 ![AOI Perfil](Eye%20Tracking%20B/AOI%20Perfil.png)
 
+Ana:
 
-Reserva
+![Perfil Ana](Eye%20Tracking%20B/Perfil%20(Ana).png)
 
-![Reserva Ana](Eye%20Tracking%20B/Reserva%20(Ana).png)
+Carlos:
 
-![Reserva Carlos](Eye%20Tracking%20B/Reserva%20(Carlos).png)
+![Perfil Carlos](Eye%20Tracking%20B/Perfil%20(Carlos).png)
+
+
+#### Reserva
 
 ![AOI Reserva](Eye%20Tracking%20B/AOI%20Reserva.png)
 
+Ana:
 
-#### Clubs de lectura La Estupenda
+![Reserva Ana](Eye%20Tracking%20B/Reserva%20(Ana).png)
+
+Carlos:
+
+![Reserva Carlos](Eye%20Tracking%20B/Reserva%20(Carlos).png)
 
 
-Inicio
+### Clubs de lectura La Estupenda
 
-![Inicio Laura](Eye%20Tracking%20A/Inicio%20(Laura).png)
 
-![Inicio Jorge](Eye%20Tracking%20A/Inicio%20(Jorge).png)
+#### Inicio
 
 ![AOI Inicio](Eye%20Tracking%20A/AOI%20Inicio.png)
 
+Laura:
 
-Lista de actividades
+![Inicio Laura](Eye%20Tracking%20A/Inicio%20(Laura).png)
 
-![Lista de actividades Laura](Eye%20Tracking%20A/Lista%20actividades%20(Laura).png)
+Jorge:
 
-![Lista de actividades Jorge](Eye%20Tracking%20A/Lista%20actividades%20(Jorge).png)
+![Inicio Jorge](Eye%20Tracking%20A/Inicio%20(Jorge).png)
+
+
+#### Lista de actividades
 
 ![AOI Lista de actividades](Eye%20Tracking%20A/AOI%20Lista%20actividades.png)
 
+Laura:
 
-Producto detalle
+![Lista de actividades Laura](Eye%20Tracking%20A/Lista%20actividades%20(Laura).png)
 
-![Producto detalle Laura](Eye%20Tracking%20A/Producto%20detalle%20(Laura).png)
+Jorge:
 
-![Producto detalle Jorge](Eye%20Tracking%20A/Producto%20detalle%20(Jorge).png)
+![Lista de actividades Jorge](Eye%20Tracking%20A/Lista%20actividades%20(Jorge).png)
+
+
+#### Producto detalle
 
 ![AOI Producto detalle](Eye%20Tracking%20A/AOI%20Producto%20Detalle.png)
 
+Laura:
 
-Registrarse
+![Producto detalle Laura](Eye%20Tracking%20A/Producto%20detalle%20(Laura).png)
+
+Jorge:
+
+![Producto detalle Jorge](Eye%20Tracking%20A/Producto%20detalle%20(Jorge).png)
+
+
+#### Registrarse
+
+![AOI Registrarse](Eye%20Tracking%20A/AOI%20Registrarse.png)
+
+Laura:
 
 ![Registrarse Laura](Eye%20Tracking%20A/Registrarse%20(Laura).png)
 
-![Registrarse Jorge](Eye%20Tracking%20A/Registrarse%20(Jorge).png)
+Jorge:
 
-![AOI Registrarse](Eye%20Tracking%20A/AOI%20Registrarse.png)
+![Registrarse Jorge](Eye%20Tracking%20A/Registrarse%20(Jorge).png)
 
 
 ## 4 CONCLUSIONES 
@@ -205,6 +237,10 @@ La aplicación tiene un concepto sólido y funciones muy útiles, resalta como t
 
 #### Según el Eyetracking
 
+Los mapas de calor obtenido muestran ciertas tendencias que se repiten en ambos prototipos, por ejemplo, muestran claramente como los usuarios han explorado las páginas de manera desordenada, con muchas revisitas a las mismas áreas; como hay secciones importantes de las páginas que recibieron poca o nula atención; y, por último, como los usuarios tendieron mucho más a fijar su atención en los elementos gráficos atractivos y coloridos, sobretodo, los menos experimentados en tecnología o en el tema de la aplicación.
+
+
+De todas estas tendencias, podemos concluir que hace falta revisionar algunos diseños para lograr que los elementos gráficos atractivos no sólo capten la atención sino que también dirijan la mirada de los usuarios hacia la información relevante, así como reestructurar algunas páginas para conseguir que las áreas relevantes, aunque algunas menos llamativas, formen parte del resto de áreas que han captado la total atención de los usuarios.
 
 
 #### Incidencias
