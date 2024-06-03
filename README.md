@@ -199,8 +199,6 @@ A continuación, se incluyen una serie de bocetos Hi-Fi de la aplicación.
 
 ![Contacto](img/p3-4i.png)
 
-
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
@@ -212,6 +210,8 @@ A continuación, se incluyen una serie de bocetos Hi-Fi de la aplicación.
 ----
 
 En este apartado vamos a analizar el trabajo realizado por el grupo [DIU3_14_AveFenix](https://github.com/G3rarB0net/DIU), que han llevado a cabo la aplicación Mountain Sports.
+
+![Logo Mountain Sports](img/p4-1.png)
 
 Mountain Sport es una aplicación dedicada a las actividades de montaña, la cual pretende ofrecer a todos sus usuarios una plataforma donde poder inscribirse en multitud de experiencias deportivas por zonas rurales más y menos conocidas, donde todas destacan por su enorme belleza, sus vistas impresionantes y su gran altitud.
 
