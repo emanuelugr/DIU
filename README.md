@@ -211,7 +211,7 @@ A continuación, se incluyen una serie de bocetos Hi-Fi de la aplicación.
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-En este apartado vamos a analizar el trabajo realizado por el grupo ![DIU3_14_AveFenix](https://github.com/G3rarB0net/DIU), que han llevado a cabo la aplicación Mountain Sports.
+En este apartado vamos a analizar el trabajo realizado por el grupo [DIU3_14_AveFenix](https://github.com/G3rarB0net/DIU), que han llevado a cabo la aplicación Mountain Sports.
 
 Mountain Sport es una aplicación dedicada a las actividades de montaña, la cual pretende ofrecer a todos sus usuarios una plataforma donde poder inscribirse en multitud de experiencias deportivas por zonas rurales más y menos conocidas, donde todas destacan por su enorme belleza, sus vistas impresionantes y su gran altitud.
 
@@ -222,79 +222,86 @@ Mountain Sport es una aplicación dedicada a las actividades de montaña, la cua
 Mediante el uso de tiradas de dados hemos creado las personas necesarias para esta sección intentando cubrir el máximo tipo de usuario objetivo que podemos abarcar.
 Para el prototipo A (Clubes de lectura):
 
-* Persona 1 (Laura Martínez)
+Persona 1 (Laura Martínez)
 
-Tipo: Usuario activo
+* Tipo: Usuaria activa
 
-Actividad: Participación constante en clubes de lectura y foros
+* Actividad: Participación constante en clubes de lectura y foros
 
-Emoción: Motivada por el aprendizaje y el intercambio de ideas
+* Emoción: Motivada por el aprendizaje y el intercambio de ideas
 
-Necesidades: interfaz intuitiva y atractiva, foros activos y moderados para discusiones literarias y notificaciones que avisen de nuevos eventos y discusiones.
+* Necesidades: interfaz intuitiva y atractiva, foros activos y moderados para discusiones literarias y notificaciones que avisen de nuevos eventos y discusiones.
 
-Situaciones conflicitvas: si la interfaz no es muy intuitiva podría desanimarse después de un primer impulso por participar en cualquiera de estas actividades, de la misma forma, estando tan interesada, tendría un grave problema con no recibir notificaciones actualizadas sobre los eventos que le interesan.
+* Situaciones conflicitvas: si la interfaz no es muy intuitiva podría desanimarse después de un primer impulso por participar en cualquiera de estas actividades, de la misma forma, estando tan interesada, tendría un grave problema con no recibir notificaciones actualizadas sobre los eventos que le interesan.
 
 
-* Persona 2 (Jorge Gutiérrez)
+Persona 2 (Jorge Gutiérrez)
 
-Tipo: Usuario ocasional
+* Tipo: Usuario ocasional
 
-Actividad: Búsqueda de eventos literarios específicos
+* Actividad: Búsqueda de eventos literarios específicos
 
-Emoción: Interesado, pero con poco tiempo
+* Emoción: Interesado, pero con poco tiempo
 
-Necesidades: fácil acceso a un calendario de eventos, sistema sencillo y cómodo de registrarse e iniciar sesión y la posibilidad de inscribirse rápidamente a cualquier evento.
+* Necesidades: fácil acceso a un calendario de eventos, sistema sencillo y cómodo de registrarse e iniciar sesión y la posibilidad de inscribirse rápidamente a cualquier evento.
 
-Situaciones conflicitvas: en este caso, el gran problema es el tiempo, por tanto, si la aplicación no es eficiente y clara y no ofrece una forma rápida y simple de registrase e inciar sesión, así como de inscribirse a un evento, perdería todo el interés.
+* Situaciones conflicitvas: en este caso, el gran problema es el tiempo, por tanto, si la aplicación no es eficiente y clara y no ofrece una forma rápida y simple de registrase e inciar sesión, así como de inscribirse a un evento, perdería todo el interés.
 
 
 
 Para el prototipo B (Actividades de montaña):
 
-* Persona 3 (Ana Botín)
+Persona 3 (Ana Botín)
 
-Tipo: Usuario experto
+* Tipo: Usuaria experta
 
-Actividad: Planificación de rutas y actividades avanzadas
+* Actividad: Planificación de rutas y actividades avanzadas
 
-Emoción: Apasionada y exigente
+* Emoción: Apasionada y exigente
 
-Necesidades: mapas detallados y actualizados, información precisa sobre rutas y condiciones del tiempo y opciones para compartir rutas y experiencias en redes sociales.
+* Necesidades: mapas detallados y actualizados, información precisa sobre rutas y condiciones del tiempo y opciones para compartir rutas y experiencias en redes sociales.
+
+* Situaciones conflictivas: si los mapas no están bien detallados y desactualizados podría frustrarse y no querer repetir la experiencia. También es muuy importante para ella poder compartir su experiencia con sus amigos en redes y recibir retroalimentación.
 
 
-Situaciones conflictivas: si los mapas no están bien detallados y desactualizados podría frustrarse y no querer repetir la experiencia. También es muuy importante para ella poder compartir su experiencia con sus amigos en redes y recibir retroalimentación.
+Persona 4 (Carlos Fernández)
 
+* Tipo: Usuario principiante
 
-* Persona 4 (Carlos Fernández)
+* Actividad: Búsqueda de actividades de iniciación
 
-Tipo: Usuario principiante
+* Emoción: Motivado pero inexperto
 
-Actividad: Búsqueda de actividades de iniciación
+* Necesidades: guías y tutoriales para principiantes, recomendaciones de rutas por dificultad, foro de comunidad para preguntas y consejos.
 
-Emoción: Motivado pero inexperto
-
-Necesidades: guías y tutoriales para principiantes, recomendaciones de rutas por dificultad, foro de comunidad para preguntas y consejos.
-
-Situaciones conflictivas: si no encuentra guías y tutoriales claros para principiantes, así como que las rutas y actividades no hagan referencia a la dificultad o vea únicamente en los comentarios gente que parezca ser experta, podría sentirse completamente abrumado y nada motivado.
+* Situaciones conflictivas: si no encuentra guías y tutoriales claros para principiantes, así como que las rutas y actividades no hagan referencia a la dificultad o vea únicamente en los comentarios gente que parezca ser experta, podría sentirse completamente abrumado y nada motivado.
 
 
 
 | Usuarios          | Sexo/Edad | Ocupación                 |  Exp.TIC    | Personalidad | Plataforma | TestA/B |
-| ----------------- | --------- | ------------------------- | ----------- | -----------  | ---------- | ------- |
+| ----------------- | --------- | ------------------------- | ----------- | ------------ | ---------- | ------- |
 | Laura Martínez    | H / 32    | Profesora de literatura   | Alta        | Sociable     | Móvil      | A       |
 | Jorge Gutiérrez   | M / 57    | Abogado                   | Media       | Racional     | Web        | A       |
-| Ana Botín         | F / 21    | Estudiante                | Media       | Exigente     | Móvil      | B       |
+| Ana Botín         | F / 21    | Estudiante                | Media       | Exigente     | Móvil      | B       |
 | Carlos Fernández  | H / 43    | Ingeniero informático     | Alta        | Inseguro     | Web        | B       |
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![Cuestionario SUS](img/p4-4.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+Observando los resultados, vemos como ambas aplicaciones obtienen un resultado Aceptable Tipo B (Excelente) y un resultado Marginal Tipo D.
+
+#USER1 (Laura): se muestra muy cómoda con el sistema y logra una alta usabilidad, lo que provoca que se encuentre muy satisfecha.
+
+#USER2 (Jorge): si bien se siente a gusto con los contenidos y la planificación de la aplicación, lo que le permite buscar y centrarse en sólo los eventos que le interesan, está algo perdido con las tecnologías y le cuesta usarla cómodamente.
+
+#USER3 (Ana): disfruta muchísimo de la idea de la aplicación y los mecanismos que ofrece, tiene una experiencia satisfactoria.
+
+#USER4 (Carlos): entiende bien la aplicación y obtiene un buena usabilidad, sin embargo al ser principiante en el mundillo se encuentra totalmenete perdido con los contenidos y las referencias a muchos elementos dentro del sistema, lo que provoca que no se sienta del todo cómodo.
+
+Como conclusiones de los casos que hemos analizado, extrapolarlo más allá es díficil con los limitados perfiles usados, ambos prototipos tiene ideas claras, mantienen una jerarquía y diseño coherente y ofrecen mecanismos sencillos y útiles, sin embargo, puede que el prototipo A deje más vendido a usuarios con poca experiencia con la tecnología en cuestiones de diseño, dado su minimalismo, y el prototipo B no tenga muy cuenta los usuarios con poca experiencia en el campo en cuestiones de diseño, dado a la falta de tags o de indicadores más allá de descripciones técnicas.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
